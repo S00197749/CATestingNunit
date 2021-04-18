@@ -18,7 +18,7 @@ namespace CATesting.Tests
         [TestCase(10, "male", ExpectedResult = 0.0)]
         [TestCase(20, "male", ExpectedResult = 6.0)]
         [TestCase(40, "male", ExpectedResult = 5.0)]
-        [TestCase(60, "male", ExpectedResult = 0.375)]
+        [TestCase(60, "male", ExpectedResult = 0.75)]
         [TestCase(10, "UNKNOWN", ExpectedResult = 0.0)]
         public static float Test(int age, string gender)
         {
