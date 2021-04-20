@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CATesting", "CATesting\CATe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CATesting.Tests", "CATesting.Tests\CATesting.Tests.csproj", "{8628FD04-3B2A-4D29-BB56-77203A443BAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFixture", "MyFixture\MyFixture.csproj", "{6E25A75E-D31D-427F-97D2-3F412900145D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8628FD04-3B2A-4D29-BB56-77203A443BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8628FD04-3B2A-4D29-BB56-77203A443BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8628FD04-3B2A-4D29-BB56-77203A443BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E25A75E-D31D-427F-97D2-3F412900145D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E25A75E-D31D-427F-97D2-3F412900145D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E25A75E-D31D-427F-97D2-3F412900145D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E25A75E-D31D-427F-97D2-3F412900145D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
